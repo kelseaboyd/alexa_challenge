@@ -1,0 +1,29 @@
+{
+	"words": {
+        "word1": [
+            {"start":"en"},
+            {"end":"es"},
+            {"word":"hello"}
+        ],
+        "word2": [
+            {"start":"en"},
+            {"end":"es"},
+            {"word":"my"}
+        ],
+        "word3": [
+            {"start":"en"},
+            {"end":"es"},
+            {"word":"name"}
+        ],
+        "word4": [
+            {"start":"en"},
+            {"end":"es"},
+            {"word":"is"}
+        ],
+        "word5": [
+            {"start":"en"},
+            {"end":"es"},
+            {"word":"Alexa"}
+        ],
+    }
+}
